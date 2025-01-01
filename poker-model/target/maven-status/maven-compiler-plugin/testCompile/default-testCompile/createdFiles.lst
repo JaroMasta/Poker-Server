@@ -1,0 +1,10 @@
+pl\edu\agh\kis\pz1\exceptionsTest\InvalidPlayerNumberExceptionTest.class
+pl\edu\agh\kis\pz1\cards\DeckTest.class
+pl\edu\agh\kis\pz1\exceptionsTest\NoChipsExceptionTest.class
+pl\edu\agh\kis\pz1\cards\HandTest.class
+pl\edu\agh\kis\pz1\exceptionsTest\EmptyHandExceptionTest.class
+pl\edu\agh\kis\pz1\game\FiveCardDrawGameTest.class
+pl\edu\agh\kis\pz1\cards\CardTest.class
+pl\edu\agh\kis\pz1\game\PlayerTest.class
+pl\edu\agh\kis\pz1\game\FiveCardDrawHandEvalutorTest.class
+pl\edu\agh\kis\pz1\exceptionsTest\IllegalMoveExceptionTest.class
