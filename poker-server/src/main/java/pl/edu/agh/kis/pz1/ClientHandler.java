@@ -4,6 +4,7 @@ import pl.edu.agh.kis.pz1.exceptions.WrongNumberException;
 import pl.edu.agh.kis.pz1.game.GameVariants;
 import pl.edu.agh.kis.pz1.rules.FiveCardDrawRules;
 import pl.edu.agh.kis.pz1.rules.Rules;
+import pl.edu.agh.kis.pz1.util.CommandType;
 
 import java.io.IOException;
 import java.nio.ByteBuffer;
@@ -34,8 +35,7 @@ class ClientHandler {
      */
     public Optional<GameSession> manageStartOfClient(int numberOfActiveGames) throws IOException {
         if (numberOfActiveGames > 0) {
-            sendData("Please choose if you want to start a new game or join an existing one.\n" +
-                    "Type 1 if you want to see the list of current games or 2 if you want to start a new game.");
+            sendData(CommandType.CHOOSE_JOIN_OR_START_NEW_GAME.toString());
             Optional<String> optionalMessage;
             while (true) {
                 optionalMessage = readData();
