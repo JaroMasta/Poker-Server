@@ -1,21 +1,21 @@
-C:\Users\Jarek\Desktop\Java lab\zad3FolderGlowny\multi-module-two-main (3)\multi-module-two-main\poker-model\src\main\java\pl\edu\agh\kis\pz1\cards\Card.java
-C:\Users\Jarek\Desktop\Java lab\zad3FolderGlowny\multi-module-two-main (3)\multi-module-two-main\poker-model\src\main\java\pl\edu\agh\kis\pz1\exceptions\NoChipsException.java
-C:\Users\Jarek\Desktop\Java lab\zad3FolderGlowny\multi-module-two-main (3)\multi-module-two-main\poker-model\src\main\java\pl\edu\agh\kis\pz1\game\Game.java
-C:\Users\Jarek\Desktop\Java lab\zad3FolderGlowny\multi-module-two-main (3)\multi-module-two-main\poker-model\src\main\java\pl\edu\agh\kis\pz1\game\GameVariants.java
-C:\Users\Jarek\Desktop\Java lab\zad3FolderGlowny\multi-module-two-main (3)\multi-module-two-main\poker-model\src\main\java\pl\edu\agh\kis\pz1\cards\Hand.java
-C:\Users\Jarek\Desktop\Java lab\zad3FolderGlowny\multi-module-two-main (3)\multi-module-two-main\poker-model\src\main\java\pl\edu\agh\kis\pz1\rules\FiveCardDrawRules.java
-C:\Users\Jarek\Desktop\Java lab\zad3FolderGlowny\multi-module-two-main (3)\multi-module-two-main\poker-model\src\main\java\pl\edu\agh\kis\pz1\exceptions\DisconectedClientException.java
-C:\Users\Jarek\Desktop\Java lab\zad3FolderGlowny\multi-module-two-main (3)\multi-module-two-main\poker-model\src\main\java\pl\edu\agh\kis\pz1\exceptions\InvalidPlayerNumberException.java
-C:\Users\Jarek\Desktop\Java lab\zad3FolderGlowny\multi-module-two-main (3)\multi-module-two-main\poker-model\src\main\java\pl\edu\agh\kis\pz1\exceptions\EmptyHandException.java
-C:\Users\Jarek\Desktop\Java lab\zad3FolderGlowny\multi-module-two-main (3)\multi-module-two-main\poker-model\src\main\java\pl\edu\agh\kis\pz1\game\FiveCardDrawGame.java
-C:\Users\Jarek\Desktop\Java lab\zad3FolderGlowny\multi-module-two-main (3)\multi-module-two-main\poker-model\src\main\java\pl\edu\agh\kis\pz1\rules\Rules.java
-C:\Users\Jarek\Desktop\Java lab\zad3FolderGlowny\multi-module-two-main (3)\multi-module-two-main\poker-model\src\main\java\pl\edu\agh\kis\pz1\cards\Deck.java
-C:\Users\Jarek\Desktop\Java lab\zad3FolderGlowny\multi-module-two-main (3)\multi-module-two-main\poker-model\src\main\java\pl\edu\agh\kis\pz1\exceptions\GameOverException.java
-C:\Users\Jarek\Desktop\Java lab\zad3FolderGlowny\multi-module-two-main (3)\multi-module-two-main\poker-model\src\main\java\pl\edu\agh\kis\pz1\exceptions\IllegalMoveException.java
-C:\Users\Jarek\Desktop\Java lab\zad3FolderGlowny\multi-module-two-main (3)\multi-module-two-main\poker-model\src\main\java\pl\edu\agh\kis\pz1\DeprecatedGame.java
-C:\Users\Jarek\Desktop\Java lab\zad3FolderGlowny\multi-module-two-main (3)\multi-module-two-main\poker-model\src\main\java\pl\edu\agh\kis\pz1\game\HandEvaluator.java
-C:\Users\Jarek\Desktop\Java lab\zad3FolderGlowny\multi-module-two-main (3)\multi-module-two-main\poker-model\src\main\java\pl\edu\agh\kis\pz1\game\FiveCardDrawHandEvalutor.java
-C:\Users\Jarek\Desktop\Java lab\zad3FolderGlowny\multi-module-two-main (3)\multi-module-two-main\poker-model\src\main\java\pl\edu\agh\kis\pz1\game\Player.java
-C:\Users\Jarek\Desktop\Java lab\zad3FolderGlowny\multi-module-two-main (3)\multi-module-two-main\poker-model\src\main\java\pl\edu\agh\kis\pz1\game\FiveCardDrawGameState.java
-C:\Users\Jarek\Desktop\Java lab\zad3FolderGlowny\multi-module-two-main (3)\multi-module-two-main\poker-model\src\main\java\pl\edu\agh\kis\pz1\exceptions\WrongNumberException.java
-C:\Users\Jarek\Desktop\Java lab\zad3FolderGlowny\multi-module-two-main (3)\multi-module-two-main\poker-model\src\main\java\pl\edu\agh\kis\pz1\game\GameState.java
+C:\Users\Jarek\Desktop\Java lab\Poker-Server\poker-model\src\main\java\pl\edu\agh\kis\pz1\exceptions\WrongNumberException.java
+C:\Users\Jarek\Desktop\Java lab\Poker-Server\poker-model\src\main\java\pl\edu\agh\kis\pz1\game\Game.java
+C:\Users\Jarek\Desktop\Java lab\Poker-Server\poker-model\src\main\java\pl\edu\agh\kis\pz1\cards\Hand.java
+C:\Users\Jarek\Desktop\Java lab\Poker-Server\poker-model\src\main\java\pl\edu\agh\kis\pz1\DeprecatedGame.java
+C:\Users\Jarek\Desktop\Java lab\Poker-Server\poker-model\src\main\java\pl\edu\agh\kis\pz1\exceptions\EmptyHandException.java
+C:\Users\Jarek\Desktop\Java lab\Poker-Server\poker-model\src\main\java\pl\edu\agh\kis\pz1\game\FiveCardDrawGameState.java
+C:\Users\Jarek\Desktop\Java lab\Poker-Server\poker-model\src\main\java\pl\edu\agh\kis\pz1\game\GameVariants.java
+C:\Users\Jarek\Desktop\Java lab\Poker-Server\poker-model\src\main\java\pl\edu\agh\kis\pz1\rules\FiveCardDrawRules.java
+C:\Users\Jarek\Desktop\Java lab\Poker-Server\poker-model\src\main\java\pl\edu\agh\kis\pz1\game\HandEvaluator.java
+C:\Users\Jarek\Desktop\Java lab\Poker-Server\poker-model\src\main\java\pl\edu\agh\kis\pz1\exceptions\GameOverException.java
+C:\Users\Jarek\Desktop\Java lab\Poker-Server\poker-model\src\main\java\pl\edu\agh\kis\pz1\game\FiveCardDrawGame.java
+C:\Users\Jarek\Desktop\Java lab\Poker-Server\poker-model\src\main\java\pl\edu\agh\kis\pz1\game\FiveCardDrawHandEvalutor.java
+C:\Users\Jarek\Desktop\Java lab\Poker-Server\poker-model\src\main\java\pl\edu\agh\kis\pz1\exceptions\InvalidPlayerNumberException.java
+C:\Users\Jarek\Desktop\Java lab\Poker-Server\poker-model\src\main\java\pl\edu\agh\kis\pz1\game\Player.java
+C:\Users\Jarek\Desktop\Java lab\Poker-Server\poker-model\src\main\java\pl\edu\agh\kis\pz1\exceptions\IllegalMoveException.java
+C:\Users\Jarek\Desktop\Java lab\Poker-Server\poker-model\src\main\java\pl\edu\agh\kis\pz1\cards\Deck.java
+C:\Users\Jarek\Desktop\Java lab\Poker-Server\poker-model\src\main\java\pl\edu\agh\kis\pz1\game\GameState.java
+C:\Users\Jarek\Desktop\Java lab\Poker-Server\poker-model\src\main\java\pl\edu\agh\kis\pz1\exceptions\DisconectedClientException.java
+C:\Users\Jarek\Desktop\Java lab\Poker-Server\poker-model\src\main\java\pl\edu\agh\kis\pz1\rules\Rules.java
+C:\Users\Jarek\Desktop\Java lab\Poker-Server\poker-model\src\main\java\pl\edu\agh\kis\pz1\cards\Card.java
+C:\Users\Jarek\Desktop\Java lab\Poker-Server\poker-model\src\main\java\pl\edu\agh\kis\pz1\exceptions\NoChipsException.java

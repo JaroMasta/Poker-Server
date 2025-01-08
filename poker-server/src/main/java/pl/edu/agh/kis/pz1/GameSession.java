@@ -18,7 +18,7 @@ class GameSession implements Runnable {
     @Getter(AccessLevel.PROTECTED) private final int gameId;
     public final Rules rules;
     @Getter(AccessLevel.PROTECTED) public final int requiredNumberOfPlayers;
-    Game game;
+    private Game game;
     /**
      * Constructor is giving a unique id that is the number of game sessions that were already run
      * @param clients

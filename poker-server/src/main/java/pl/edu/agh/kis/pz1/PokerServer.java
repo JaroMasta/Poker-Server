@@ -148,6 +148,11 @@ public class PokerServer {
             key.cancel();
         }
     }
+
+    /**
+     * Creates a new thread with game session and starts this thread
+     * @param gameSession
+     */
     private void checkAndStartGame(GameSession gameSession) {
 
             Thread gameThread = new Thread(gameSession);
@@ -157,11 +162,16 @@ public class PokerServer {
     }
 
     /**
+     * Assign client to game session that he chose
      * Przypisuje klienta do sesji gry na podstawie gameId.
      *If game has enough players it immedietly starts
+     * Uses checkAndStartGame
      * @param clientHandler Handler klienta próbującego dołączyć do gry.
+     *                      handles client reponse when he wants to join gamesession
      * @param gameId Identyfikator gry wybrany przez klienta.
+     *               gameId that player chose
      * @throws IOException Jeśli wystąpi błąd komunikacji z klientem.
+     *
      */
     private void assignClientToGameSession(ClientHandler clientHandler, int gameId) throws IOException {
         Optional<GameSession> selectedSession = activeGames.stream()

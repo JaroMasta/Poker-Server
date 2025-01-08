@@ -1,5 +1,5 @@
 ## Poker-Server
-1. Przykład wygenerowany na bazie archetypu (moduł main):
+1. Projekt wygenerowany na bazie archetypu **maven** (moduł main):
    com.github.charlie-cityu.archetypes:docs-city-archetype-quickstart
    (A variation on the maven-archetype-quickstart with source set to 1.8,
     build to executable jar with dependencies and junit 4.12. File names have been changed

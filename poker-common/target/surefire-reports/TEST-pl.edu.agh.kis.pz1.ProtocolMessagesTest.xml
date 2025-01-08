@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="pl.edu.agh.kis.pz1.ProtocolMessagesTest" time="0.011" tests="0" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="pl.edu.agh.kis.pz1.ProtocolMessagesTest" time="0.008" tests="0" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1250"/>
-    <property name="java.class.path" value="C:\Users\Jarek\Desktop\Java lab\zad3FolderGlowny\multi-module-two-main (3)\multi-module-two-main\poker-common\target\test-classes;C:\Users\Jarek\Desktop\Java lab\zad3FolderGlowny\multi-module-two-main (3)\multi-module-two-main\poker-common\target\classes;C:\Users\Jarek\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\Jarek\.m2\repository\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\Jarek\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\Jarek\.m2\repository\org\apache\commons\commons-csv\1.9.0\commons-csv-1.9.0.jar;C:\Users\Jarek\.m2\repository\org\projectlombok\lombok\1.18.28\lombok-1.18.28.jar;"/>
+    <property name="java.class.path" value="C:\Users\Jarek\Desktop\Java lab\Poker-Server\poker-common\target\test-classes;C:\Users\Jarek\Desktop\Java lab\Poker-Server\poker-common\target\classes;C:\Users\Jarek\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\Jarek\.m2\repository\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\Jarek\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\Jarek\.m2\repository\org\apache\commons\commons-csv\1.9.0\commons-csv-1.9.0.jar;C:\Users\Jarek\.m2\repository\org\projectlombok\lombok\1.18.28\lombok-1.18.28.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -15,9 +15,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="PL"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
-    <property name="sun.java.command" value="C:\Users\Jarek\AppData\Local\Temp\surefire9554487319558709215\surefirebooter-20241224124855854_3.jar C:\Users\Jarek\AppData\Local\Temp\surefire9554487319558709215 2024-12-24T12-48-55_670-jvmRun1 surefire-20241224124855854_1tmp surefire_0-20241224124855854_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Jarek\AppData\Local\Temp\surefire4359816666456177983\surefirebooter-20250101191503108_3.jar C:\Users\Jarek\AppData\Local\Temp\surefire4359816666456177983 2025-01-01T19-15-02_947-jvmRun1 surefire-20250101191503108_1tmp surefire_0-20250101191503108_2tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="C:\Users\Jarek\Desktop\Java lab\zad3FolderGlowny\multi-module-two-main (3)\multi-module-two-main\poker-common\target\test-classes;C:\Users\Jarek\Desktop\Java lab\zad3FolderGlowny\multi-module-two-main (3)\multi-module-two-main\poker-common\target\classes;C:\Users\Jarek\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\Jarek\.m2\repository\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\Jarek\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\Jarek\.m2\repository\org\apache\commons\commons-csv\1.9.0\commons-csv-1.9.0.jar;C:\Users\Jarek\.m2\repository\org\projectlombok\lombok\1.18.28\lombok-1.18.28.jar;"/>
+    <property name="surefire.test.class.path" value="C:\Users\Jarek\Desktop\Java lab\Poker-Server\poker-common\target\test-classes;C:\Users\Jarek\Desktop\Java lab\Poker-Server\poker-common\target\classes;C:\Users\Jarek\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\Jarek\.m2\repository\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\Jarek\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\Jarek\.m2\repository\org\apache\commons\commons-csv\1.9.0\commons-csv-1.9.0.jar;C:\Users\Jarek\.m2\repository\org\projectlombok\lombok\1.18.28\lombok-1.18.28.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\Jarek"/>
     <property name="user.language" value="pl"/>
@@ -25,12 +25,12 @@
     <property name="java.version.date" value="2024-07-16"/>
     <property name="java.home" value="C:\Program Files\Java\jdk-17"/>
     <property name="file.separator" value="\"/>
-    <property name="basedir" value="C:\Users\Jarek\Desktop\Java lab\zad3FolderGlowny\multi-module-two-main (3)\multi-module-two-main\poker-common"/>
+    <property name="basedir" value="C:\Users\Jarek\Desktop\Java lab\Poker-Server\poker-common"/>
     <property name="java.vm.compressedOopsMode" value="32-bit"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Jarek\AppData\Local\Temp\surefire9554487319558709215\surefirebooter-20241224124855854_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Jarek\AppData\Local\Temp\surefire4359816666456177983\surefirebooter-20250101191503108_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.12+8-LTS-286"/>
@@ -44,7 +44,7 @@
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="C:\Users\Jarek\AppData\Local\Temp\"/>
     <property name="java.version" value="17.0.12"/>
-    <property name="user.dir" value="C:\Users\Jarek\Desktop\Java lab\zad3FolderGlowny\multi-module-two-main (3)\multi-module-two-main\poker-common"/>
+    <property name="user.dir" value="C:\Users\Jarek\Desktop\Java lab\Poker-Server\poker-common"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>

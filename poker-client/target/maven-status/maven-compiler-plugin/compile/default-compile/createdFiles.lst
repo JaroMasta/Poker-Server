@@ -1,3 +1,6 @@
 pl\edu\agh\kis\pz1\ClientMain.class
+pl\edu\agh\kis\pz1\ClientLogicHandler$1.class
 pl\edu\agh\kis\pz1\PokerClient.class
-pl\edu\agh\kis\pz1\UserInputHandler.class
+pl\edu\agh\kis\pz1\ClientInputHandler$CommandType.class
+pl\edu\agh\kis\pz1\ClientInputHandler.class
+pl\edu\agh\kis\pz1\ClientLogicHandler.class

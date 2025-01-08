@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: pl.edu.agh.kis.pz1.cards.DeckTest
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.024 s -- in pl.edu.agh.kis.pz1.cards.DeckTest
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.026 s -- in pl.edu.agh.kis.pz1.cards.DeckTest
